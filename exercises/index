@@ -1,0 +1,11 @@
+<html>
+<title>Home Page</title>
+<body>
+
+  <h1>Home Page - nithyareddy003</h1>
+  <p>Welcome to the home page of nithyareddy003!</p>
+  
+  <h2>Links to subsites</h2>
+  
+  <h3>Exercises Site</h3>
+  <p>My HTML exercises are here <a href="/exercises">exercises</a> </p>
