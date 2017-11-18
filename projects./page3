@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>CSS Website Layout</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="layoutc3.css">
+<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+
+<div class="header">
+  <h1>DOCTOR WHO-ENEMIES</h1>
+   <h><img src="http://www.withanaccent.com/wp-content/uploads/2012/09/Doctor_Who_Series_7_title_screen.png"</h>
+</div>
+
+<div class="topnav">
+  <a href="index.html">Home</a>
+  <a href="TimeTravel.html">Time Travel</a>
+  <a href="TheDoctor.html">The Doctor</a>
+  <a class="active" href="Enemies.html">Enemies</a>
+  <a href="Miscellaneous.html">Miscellaneous</a>
+</div>
+
+<div class="row content">
+  <div class="column side">
+    <h2>Daleks</h2>
+    <p>The Daleks are one of the most feared races in the universe. Their creator, Davros only has one intention, destroying all life apart from Dalek life. The daleks detroyed Gallifrey and all the Time Lords.The Daleks come from the planet Skaro some time in the future, their main leader and creator is Davros. Over the years there have been many different Dalek space ships that the Daleks use to transport themselves. The Daleks have attempted to take over the universe but luckily the Doctor has always stopped them.</p>
+  
+    <a href="http://www.thedoctorwhosite.co.uk/dalek/">More About Daleks</a>
+  </div>
+  <div class="column middle">
+    <h2>Cybermen</h2>
+    <p>Cybermen are a fictional race of cyborgs who are among the most persistent enemies of the Doctor. The Cybermen were a "race" of cybernetically augmented humanoids.</p> 
+     <a href="http://www.thedoctorwhosite.co.uk/cybermen/">More About Cybermen</a>
+    
+  </div>
+  <div class="column side">
+    <h2>Weeping Angels</h2>
+    <p>The Weeping Angels were an extremely powerful species of quantum locked humanoids that resemble stone statues of angels.</p>
+     <a href="http://www.doctorwho.tv/50-years/monsters/weeping-angels/">More About Weeping Angels</a>
+      <p>Daleks are one of the Doctor's worst enemies<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Dalek_%28Dr_Who%29.jpg/220px-Dalek_%28Dr_Who%29.jpg"</p>
+      <p>The Cybermen are a fictional race of cyborgs. <img src="https://upload.wikimedia.org/wikipedia/en/d/d7/Cyberman_2013.jpg"</p>
+      <p>Weeping Angels are on of the Doctor's most fatal enemies.</p> <img src="http://media.immediate.co.uk/volatile/sites/3/2016/11/123017.jpg?quality=90&resize=620,413"</p>
+  </div>
+</div>
+<a href="https://replit.org/data/web_project/599c3279f12ed5da05e8d5ed02424de5/index.html">HOME PAGE</a>
+
+<div class="footer">
+  <p>Footer</p>
+</div>
+  
+</body>
+</html>
