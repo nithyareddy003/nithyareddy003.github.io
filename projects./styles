@@ -1,0 +1,23 @@
+.header {
+    background-color: blue;
+    padding: 20px;
+    text-align: center;
+.content {
+  background-color:lightblue;
+}
+{
+
+img src{
+  width:20%;
+}
+.content p{
+font-family:"Comic Sans MS", sans-serif;
+color:black;
+}
+h2 {
+ color: turquoise;
+}
+
+h32 {
+   border: 2px solid lime;
+}
