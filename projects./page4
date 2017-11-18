@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>CSS Website Layout</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="layoutc3.css">
+<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+
+<div class="header">
+  <h1>Doctor Who-Time Travel</h1>
+   <h><img src="http://www.withanaccent.com/wp-content/uploads/2012/09/Doctor_Who_Series_7_title_screen.png"</h>>
+</div>
+
+<div class="topnav">
+  <a href="index.html">Home</a>
+  <a href="TimeTravel.html">Time Travel</a>
+  <a href="TheDoctor.html">The Doctor</a>
+  <a href="Enemies.html">Enemies</a>
+  <a class="active" href="Miscellaneous.html">Miscellaneous</a>
+</div>
+
+<div class="row content">
+  <div class="column side">
+    <h2>SONIC SCREWDRIVER</h2>
+    <p>There have been many different versions of the sonic screwdriver, as with subsequent Doctors the design of it was changed. It has also been destroyed on a number of occasions, thus leading to the introduction of the next model.</p>
+  </div>
+  <div class="column middle">
+    <h2>PLANETS</h2>
+    <p>In Doctor Who there are various universes. As the television show progresses the Doctor saves many species cose to extinction, as well as fighting enemies, such as daleks, cybermen, the silence, and weeping angels.</p>
+    </div>
+  <div class="column middle">
+    <h2>COMPANIONS</h2>
+    <p>Through the seasons of Doctor Who each season the Doctor has a companion. The Companion usually is a young female from who shares a curiosity of the world beyond Earth.
+    <p>Throughout the televison show the Doctor travels through time to various planets, such as Earth,Skaro and many others places.<img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Skaro.jpg/250px-Skaro.jpg"</p>
+  </div>
+   <p>The sonic screwdriver is the a vital element of the Doctor.The  Doctor uses it for various things such unlocking and locking doors and as ell as disarming enemies.<img src="http://www.thinkgeek.com/images/products/zoom/imkj_12th_doc_sonic_screw_remote.jpg"</p>
+  <div class="column side">
+    <h2>Video</h2>
+    <p> <iframe width="350" height="215" src="https://www.youtube.com/embed/_-_bSdWEYK8" frameborder="0" allowfullscreen></iframe></p>
+
+  </div>
+</div>
+<a href="https://replit.org/data/web_project/599c3279f12ed5da05e8d5ed02424de5/index.html">HOME PAGE</a>
+<div class="footer">
+  <p>Footer</p>
+</div>
+  
