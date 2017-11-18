@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>CSS Website Layout</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="layoutc3.css">
+<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+
+<div class="header">
+  <h1>DOCTOR WHO-THE DOCTOR</h1>
+   <h><img src="http://www.withanaccent.com/wp-content/uploads/2012/09/Doctor_Who_Series_7_title_screen.png"</h>
+</div>
+
+<div class="topnav">
+  <a href="index.html">Home</a>
+  <a href="TimeTravel.html">Time Travel</a>
+  <a class="active" href="TheDoctor.html">The Doctor</a>
+  <a href="Enemies.html">Enemies</a>
+  <a href="Miscellaneous">Miscellaneous</a>
+</div>
+<h2>PAGE 2 TOC</h2>
+  <li>THE DOCTOR</li>
+  <li>REGENERATION</li>
+  <li>TIME LORDS</li>
+
+<div class="row content">
+  <div class="column side">
+    <h2>THE DOCTOR</h2>
+    <p>The Doctor is a time lord from the alien planet, Gallifrey. Time lords do not die, but can regenerate and each time they do they gain a new appearance. Throughout the seasons of the television show the Doctor regenerates several times.The Doctor is the last of the Time Lords. The sole survivor of Gallifrey and The Last Great Time War. He has travelled space and time, battling evil for over 900 years. On the run from his past in an amazing ship. </p>
+  </div>
+  <div class="column middle">
+    <h2>REGENERATION</h2>
+    <p>Regeneration is the biological ability of time lords to regenerate when close to death. Time Lords also have the ability to change their appearance when regenerating.</p>
+  </div>
+  <div class="column side">
+    <h2>TIME LORDS</h2>
+    <p>Time Lords were inhabitants of the planet Gallifrey, who went nearly extinct after a war with another alien species. The Doctor is one of the last of the time lords.</p>
+
+    <p>The Doctor is a time lord from Gallifrey.<img src="http://news.thedoctorwhosite.co.uk/images/doctor-who-logo-series-5-2010.jpg"</p>
+    <p>Time Lords can regenerate and change their appearance when close to "death".<img src="http://images.amcnetworks.com/bbcamerica.com/wp-content/uploads/2013/09/regeneration.jpg"</p>
+     <p>Time Lords are the race of Gallifreyans that the Doctor orginates from.<img src="https://upload.wikimedia.org/wikipedia/en/8/8b/Gallifrey_Sound_of_Drums.jpg"</p>
+  </div>
+</div>
+<a href="https://replit.org/data/web_project/599c3279f12ed5da05e8d5ed02424de5/index.html">HOME PAGE</a>
+
+<div class="footer">
+  <p>Footer</p>
+</div>
