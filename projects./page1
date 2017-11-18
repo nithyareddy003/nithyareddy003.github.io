@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>CSS Website Layout</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="layoutc3.css">
+<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  
+<div class="header">
+  <h1>DOCTOR WHO-TIME TRAVEL</h1>
+   <h><img src="http://www.withanaccent.com/wp-content/uploads/2012/09/Doctor_Who_Series_7_title_screen.png"</h>
+</div>
+
+<div class="topnav">
+  <a href="index.html">Home</a>
+  <a class="active" href="TimeTravel.html">Time Travel</a>
+  <a href="TheDoctor.html">The Doctor</a>
+  <a href="Enemies.html">Enemies</a>
+  <a href="Miscellaneous.html">Miscellaneous</a>
+</div>
+<h2>PAGE 1 TOC</h2>
+  <li>TIME TRAVEL</li>
+  <li>THE TARDIS</li>
+  <li>GALLIFREY</li>
+
+
+<div class="row content">
+  <div class="column side">
+    <h2>TIME TRAVEL</h2>
+    <p>Time travel is the concept of movement between certain points in time,the movement between different points in space by an object or a person, typically using a hypothetical device known as a time machine, in the form of a vehicle or of a portal connecting distant points in spacetime, either to an earlier time or to a later time.<p/>
+  </div>
+  <div class="column middle">
+    <h2>THE TARDIS</h2>
+    <p>The TARDIS stands for Time and Relative Dimension in Space. The Police Box that the Doctor travels around in is really a Type 40 time and space machine from Gallifrey.The TARDIS is dimensionally transcendental, meaning it’s bigger on the inside than the outside. The interior exists in a different, relative dimension to the exterior. In the very first story it was established that the TARDIS usually changes its exterior appearance on each trip to blend in with its surroundings.</p> 
+  </div>
+  <div class="column side">
+    <h2>Gallifrey</h2>
+    <p>Gallifrey is the home of the Doctor. Gallifrey was destroyed by Daleks during a war about 900 years ago. Gallifrey was home to to several different types of aliens, but espicially Time Lords.
+    <p>Time travel is the movement between points in time.<img src="https://media1.tenor.com/images/63238f3e6c7a4bcd56f5b6967a5f87f7/tenor.gif?itemid=3470791"</p>
+    <p>The tardis is a time traveling machine that the Doctor uses. <img src="https://static.posters.cz/image/750/affiches/doctor-who-tardis-i15894.jpg"</p>
+     <p>Gallifrey was the homeworld of the Time Lords. <img src="https://vignette.wikia.nocookie.net/tardis/images/d/d5/GallifreyReturns-1-.jpg/revision/latest/scale-to-width-down/350?cb=20120410032325"</p>
+  </div>
+</div>
+ <a href="https://replit.org/data/web_project/599c3279f12ed5da05e8d5ed02424de5/index.html">HOME PAGE</a>
+
+<div class="footer">
+  <p>Footer</p>
+</div>
+  
+</body>
+</html>
